@@ -59,18 +59,22 @@ Here are some ideas to get you started:
 [![Rain120 Github States](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rain120&show_icons=true)](https://github.com/Rain120/)
 
 **我热度最高的Repositories:**
+<div>
+  <a href="https://github.com/Rain120/typescript-guide" style="display: inline-flex;">
+    <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rain120&repo=typescript-guide" />
+  </a>
 
-<a href="https://github.com/Rain120/typescript-guide" style="display: inline-flex;">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rain120&repo=typescript-guide" />
-</a>
+  <a href="https://github.com/Rain120/study-notes" style="display: inline-flex;">
+    <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rain120&repo=study-notes" />
+  </a>
 
-<a href="https://github.com/Rain120/study-notes" style="display: inline-flex;">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rain120&repo=study-notes" />
-</a>
+  <a href="https://github.com/Rain120/awesome-javascript-code-implementation" style="display: inline-flex;">
+    <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rain120&repo=awesome-javascript-code-implementation" />
+  </a>
+</div>
 
-<a href="https://github.com/Rain120/awesome-javascript-code-implementation" style="display: inline-flex;">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rain120&repo=awesome-javascript-code-implementation" />
-</a>
+<br />
+<br />
 
 **更多仓库 [Here](https://github.com/Rain120?tab=repositories)**
 
