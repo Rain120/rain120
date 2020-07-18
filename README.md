@@ -1,20 +1,20 @@
 ### Hi there, I'm Rain120! 👋
 
 <div>
-  <a href="https://rain120.github.io/study-notes/" style="display: inline-flex;">
+  <a target="_blank" href="https://rain120.github.io/study-notes/" style="display: inline-flex;">
     <img align="left" alt="Rain120 | 笔记 " width="21px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/note.svg" />
   </a>
 
-  <a href="https://codesandbox.io/u/rain120" style="display: inline-flex;">
+  <a target="_blank" href="https://codesandbox.io/u/rain120" style="display: inline-flex;">
     <img align="left" alt="Rain120" | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/codesandbox.svg" />
   </a>
-  <a href="https://www.zhihu.com/people/yan-yang-nian-hua-120" style="display: inline-flex;">
+  <a target="_blank" href="https://www.zhihu.com/people/yan-yang-nian-hua-120" style="display: inline-flex;">
     <img align="left" alt="Rain120 | 知乎 " width="21px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/zhihu.svg" />
   </a>
-  <a href="https://juejin.im/user/57c616496be3ff00584f54db" style="display: inline-flex;">
+  <a target="_blank" href="https://juejin.im/user/57c616496be3ff00584f54db" style="display: inline-flex;">
     <img align="left" alt="Rain120 | 掘金 " width="21px" style="transform: scale(2.5);" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/juejin.svg" />
   </a>
-  <a href="http://weibo.com/5304058050/profile" style="display: inline-flex;">
+  <a target="_blank" href="http://weibo.com/5304058050/profile" style="display: inline-flex;">
     <img align="left" alt="Rain120 | 微博 " width="21px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/weibo.svg" />
   </a>
 </div>
@@ -60,14 +60,14 @@ Here are some ideas to get you started:
 
 **我热度最高的Repositories:**
 
-<a href="https://github.com/Rain120/typescript-guide" style="display: inline-flex;">
+<a target="_blank" href="https://github.com/Rain120/typescript-guide" style="display: inline-flex;">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rain120&repo=typescript-guide" />
 </a>
 
-<a href="https://github.com/Rain120/study-notes" style="display: inline-flex;">
+<a target="_blank" href="https://github.com/Rain120/study-notes" style="display: inline-flex;">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rain120&repo=study-notes" />
 </a>
 
-<a href="https://github.com/Rain120/awesome-javascript-code-implementation" style="display: inline-flex;">
+<a target="_blank" href="https://github.com/Rain120/awesome-javascript-code-implementation" style="display: inline-flex;">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rain120&repo=awesome-javascript-code-implementation" />
 </a>
