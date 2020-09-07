@@ -71,3 +71,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://github.com/Rain120/awesome-javascript-code-implementation" style="display: inline-flex;">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rain120&repo=awesome-javascript-code-implementation" />
 </a>
+
+<a target="_blank" href="https://github.com/Rain120/mini-mobx" style="display: inline-flex;">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rain120&repo=mini-mobx" />
+</a>
