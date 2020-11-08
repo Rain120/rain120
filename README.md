@@ -22,7 +22,7 @@
 <br />
 <br />
 
-**Hi, I'm Rain120**, 一名已经 **北漂** 两年的菜鸡前端, 技术栈是 `React` + `Mobx`, 正在积极学习 `Typescript`, 生活组成就是出门练习练习摄影, 试图捡起篮球以及 **折腾并学习那些不会的前端知识** (PS: 学不动了要😭😭) , 并且会将学习心得和笔记记录下 [study-notes](https://rain120.github.io/study-notes/)上, 除此之外, 还会实践一些个人感兴趣的小东西, 虽然流产率比较高, 但还是比较喜欢折腾这些, 有喜欢折腾的可以一起啊。
+**Hi, I'm Rain120**, 一名 **北漂** 的菜鸡前端, 技术栈是 `React` + `Mobx`, 正在积极学习 `Typescript`, 生活组成就是出门练习练习摄影, 试图捡起篮球以及 **折腾并学习那些不会的前端知识** (PS: 学不动了要😭😭) , 并且会将学习心得和笔记记录下 [study-notes](https://rain120.github.io/study-notes/)上, 除此之外, 还会实践一些个人感兴趣的小东西, 虽然流产率比较高, 但还是比较喜欢折腾这些, 有喜欢折腾的可以一起啊。
 
 <!--
 **Rain120/rain120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
