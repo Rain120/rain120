@@ -17,9 +17,6 @@
   <a target="_blank" href="http://weibo.com/5304058050/profile" style="display: inline-flex;">
     <img align="left" alt="Rain120 | 微博 " width="21px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/weibo.svg" />
   </a>
-  <a target="_blank" href="http://github.com/rain120" style="display: inline-flex;">
-    <img align="left" alt="Rain120 | Github | Visitor" width="21px" src="https://visitor-badge.glitch.me/badge?page_id=rain120" />
-  </a>
 </div>
 
 <br />
@@ -62,6 +59,10 @@ Here are some ideas to get you started:
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 </div>
+
+<br />
+
+<img align="left" alt="Rain120 | Github | Visitor" width="21px" src="https://visitor-badge.glitch.me/badge?page_id=rain120" />
 
 <br />
 
