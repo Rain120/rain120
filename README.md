@@ -81,6 +81,6 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rain120&repo=awesome-javascript-code-implementation" />
 </a>
 
-<a target="_blank" href="https://github.com/Rain120/mini-mobx" style="display: inline-flex;">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rain120&repo=mini-mobx" />
+<a target="_blank" href="https://github.com/tinyfe/one-utils" style="display: inline-flex;">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tinyfe&repo=one-utils" />
 </a>
