@@ -72,17 +72,17 @@ Here are some ideas to get you started:
 **我热度最高的 Repositories:**
 
 <a target="_blank" href="https://github.com/Rain120/typescript-guide" style="display: inline-flex;">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rain120&repo=typescript-guide&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=typescript-guide&show_owner=true" />
 </a>
 
 <a target="_blank" href="https://github.com/Rain120/study-notes" style="display: inline-flex;">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rain120&repo=study-notes&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=study-notes&show_owner=true" />
 </a>
 
 <a target="_blank" href="https://github.com/Rain120/awesome-javascript-code-implementation" style="display: inline-flex;">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Rain120&repo=awesome-javascript-code-implementation&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=awesome-javascript-code-implementation&show_owner=true" />
 </a>
 
 <a target="_blank" href="https://github.com/tinyfe/one-utils" style="display: inline-flex;">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tinyfe&repo=one-utils&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tinyfe&repo=one-utils&show_owner=true" />
 </a>
