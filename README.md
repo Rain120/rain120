@@ -2,23 +2,23 @@
 
 <div>
   <a target="_blank" href="https://rain120.github.io/study-notes/" style="display: inline-flex;">
-    <img align="left" alt="Rain120 | 笔记 " width="21px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/note.svg" />
+    <img align="center" alt="Rain120 | 笔记 " width="21px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/note.svg" />
   </a>
 
   <a target="_blank" href="https://codesandbox.io/u/rain120" style="display: inline-flex;">
-    <img align="left" alt="Rain120" | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/codesandbox.svg" />
+    <img align="center" alt="Rain120" | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/codesandbox.svg" />
   </a>
   <a target="_blank" href="https://www.zhihu.com/people/yan-yang-nian-hua-120" style="display: inline-flex;">
-    <img align="left" alt="Rain120 | 知乎 " width="21px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/zhihu.svg" />
+    <img align="center" alt="Rain120 | 知乎 " width="21px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/zhihu.svg" />
   </a>
   <a target="_blank" href="https://juejin.im/user/57c616496be3ff00584f54db" style="display: inline-flex;">
-    <img align="left" alt="Rain120 | 掘金 " width="21px" style="transform: scale(2.5);" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/juejin.svg" />
+    <img align="center" alt="Rain120 | 掘金 " width="21px" style="transform: scale(2.5);" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/juejin.svg" />
   </a>
   <a target="_blank" href="http://weibo.com/5304058050/profile" style="display: inline-flex;">
-    <img align="left" alt="Rain120 | 微博 " width="21px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/weibo.svg" />
+    <img align="center" alt="Rain120 | 微博 " width="21px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/weibo.svg" />
   </a>
   <a target="_blank" href="http://github.com/rain120" style="display: inline-flex;">
-    <img align="left" alt="Rain120 | Github | Visitor" src="https://visitor-badge.glitch.me/badge?page_id=rain120" />
+    <img align="center" alt="Rain120 | Github | Visitor" src="https://visitor-badge.glitch.me/badge?page_id=rain120" />
   </a>
 </div>
 
@@ -67,7 +67,9 @@ Here are some ideas to get you started:
 
 [![Rain120 Github States](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rain120&show_icons=true)](https://github.com/Rain120/)
 
-[![Rain120 Github Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rain120)](https://github.com/Rain120/)
+[![Rain120 Github Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rain120&layout=compact)](https://github.com/Rain120/)
+
+[![Rain120 Github Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rain120&layout=compact)](https://github.com/Rain120/)
 
 **我热度最高的 Repositories:**
 
