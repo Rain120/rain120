@@ -69,8 +69,6 @@ Here are some ideas to get you started:
 
 [![Rain120 Github Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rain120&layout=compact)](https://github.com/Rain120/)
 
-[![Rain120 Github Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rain120&layout=compact)](https://github.com/Rain120/)
-
 **我热度最高的 Repositories:**
 
 <a target="_blank" href="https://github.com/Rain120/typescript-guide" style="display: inline-flex;">
