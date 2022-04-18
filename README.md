@@ -42,15 +42,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- -   🌱 目前正在学习并书写 `Typescript` 指导书, 为了方便小白入门以及自己日后温习 [Here](https://github.com/Rain120/typescript-guide) -->
+-   🌱 目前正在学习并书写 `Typescript` 指导书, 为了方便小白入门以及自己日后温习 [Here](https://github.com/Rain120/typescript-guide)
 
-<!-- -   👯 真正寻求大佬的 `PR`
+-   👯 真正寻求大佬的 `PR`
 
     -   [Typescript 指导书](https://github.com/Rain120/typescript-guide/pulls)
 
     -   [Slate 中文文档翻译](https://github.com/Rain120/athena/pulls)
 
-    -   [算法实现](https://github.com/Rain120/awesome-javascript-code-implementation/pulls) -->
+    -   [算法实现](https://github.com/Rain120/awesome-javascript-code-implementation/pulls)
 
 -   💬 欢迎各位向我提问 [Here](https://github.com/Rain120/rain120/issues)
 
@@ -71,17 +71,17 @@ Here are some ideas to get you started:
 
 **我热度最高的 Repositories:**
 
-<!-- <a target="_blank" href="https://github.com/Rain120/typescript-guide" style="display: inline-flex;">
+<a target="_blank" href="https://github.com/Rain120/typescript-guide" style="display: inline-flex;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=typescript-guide&show_owner=true" />
-</a> -->
+</a>
 
 <a target="_blank" href="https://github.com/Rain120/study-notes" style="display: inline-flex;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=study-notes&show_owner=true" />
 </a>
 
-<!-- <a target="_blank" href="https://github.com/Rain120/awesome-javascript-code-implementation" style="display: inline-flex;">
+<a target="_blank" href="https://github.com/Rain120/awesome-javascript-code-implementation" style="display: inline-flex;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=awesome-javascript-code-implementation&show_owner=true" />
-</a> -->
+</a>
 
 <a target="_blank" href="https://github.com/tinyfe/one-utils" style="display: inline-flex;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tinyfe&repo=one-utils&show_owner=true" />
