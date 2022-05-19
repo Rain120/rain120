@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/Rain120?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&base.indepth=false&followup.sections=repositories&followup.indepth=false&config.timezone=Asia%2FShanghai)
+
 ### Hi there, I'm Rain120! 👋
 
 <div>
@@ -26,7 +28,9 @@
 <br />
 
 **Hi, I'm Rain120**, 一名从 18 年 **北漂** 至今的菜鸡前端, 技术栈是 `React` + `Mobx`, 正在积极学习 `Typescript`, 生活组成就是出门练习练习摄影, 试图捡起篮球以及 **折腾并学习那些不会的前端知识** (PS: 学不动了要 😭😭) , 并且会将学习心得和笔记记录下 [study-notes](https://rain120.github.io/study-notes/)上, 除此之外, 还会实践一些个人感兴趣的小东西, 虽然流产率比较高, 但还是比较喜欢折腾这些, 有喜欢折腾的可以一起啊。
-
+                                                                                                               
+[<img align="right" width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rain120&show_icons=true">](https://metrics.lecoq.io/rain120?template=classic)
+                                                                                                             
 <!--
 **Rain120/rain120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -54,6 +58,7 @@ Here are some ideas to get you started:
 
 -   💬 欢迎各位向我提问 [Here](https://github.com/Rain120/rain120/issues)
 
+<!--
 **Languages and Tools:**
 
 <div>
@@ -68,21 +73,12 @@ Here are some ideas to get you started:
 [![Rain120 Github States](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rain120&show_icons=true)](https://github.com/Rain120/)
 
 [![Rain120 Github Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rain120&layout=compact)](https://github.com/Rain120/)
+-->
 
 **我热度最高的 Repositories:**
 
-<a target="_blank" href="https://github.com/Rain120/typescript-guide" style="display: inline-flex;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=typescript-guide&show_owner=true" />
-</a>
+![typescript-guide](https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=typescript-guide&show_owner=true)
+                                                                                                                 ![awesome-javascript-code-implementation](https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=awesome-javascript-code-implementation&show_owner=true)
 
-<a target="_blank" href="https://github.com/Rain120/study-notes" style="display: inline-flex;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=study-notes&show_owner=true" />
-</a>
-
-<a target="_blank" href="https://github.com/Rain120/awesome-javascript-code-implementation" style="display: inline-flex;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=awesome-javascript-code-implementation&show_owner=true" />
-</a>
-
-<a target="_blank" href="https://github.com/tinyfe/one-utils" style="display: inline-flex;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tinyfe&repo=one-utils&show_owner=true" />
-</a>
+![study-notes](https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=study-notes&show_owner=true)
+                                                                                                               ![one-utils](https://github-readme-stats.vercel.app/api/pin/?username=tinyfe&repo=one-utils&show_owner=true)
