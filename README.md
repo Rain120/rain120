@@ -1,4 +1,6 @@
+<!--
 ![Metrics](https://metrics.lecoq.io/Rain120?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&base.indepth=false&followup.sections=repositories&followup.indepth=false&config.timezone=Asia%2FShanghai)
+-->
 
 ### Hi there, I'm Rain120! 👋
 
