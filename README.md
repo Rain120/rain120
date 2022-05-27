@@ -79,8 +79,7 @@ Here are some ideas to get you started:
 
 **我热度最高的 Repositories:**
 
-![typescript-guide](https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=typescript-guide&show_owner=true)
-                                                                                                                 ![awesome-javascript-code-implementation](https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=awesome-javascript-code-implementation&show_owner=true)
-
-![study-notes](https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=study-notes&show_owner=true)
-                                                                                                               ![one-utils](https://github-readme-stats.vercel.app/api/pin/?username=tinyfe&repo=one-utils&show_owner=true)
+[![typescript-guide](https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=typescript-guide&show_owner=true)](https://github.com/rain120/typescript-guide)
+[![awesome-javascript-code-implementation](https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=awesome-javascript-code-implementation&show_owner=true)](https://github.com/rain120/awesome-javascript-code-implementation)
+[![study-notes](https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=study-notes&show_owner=true)](https://github.com/rain120/study-notes/)
+[![one-utils](https://github-readme-stats.vercel.app/api/pin/?username=tinyfe&repo=one-utils&show_owner=true)](https://github.com/tinyfe/one-utils)
