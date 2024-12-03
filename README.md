@@ -77,7 +77,13 @@ Here are some ideas to get you started:
 [![Rain120 Github Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rain120&layout=compact)](https://github.com/Rain120/)
 -->
 
-**我热度最高的 Repositories:**
+**My Tools**
+
+- [Omnibox: 万能工具箱，包括并不限于代码美化、代码对比、JSON类的处理功能](https://chaos-design.github.io/omnibox/)
+- [Dom: Inspector可视化选择点位、 DOM方法](https://chaos-design.github.io/dom/)
+- [Chaos: cli 快速创建模版、项目](https://github.com/chaos-design/chaos)
+
+**我热度最高的 Repositories**
 
 [![typescript-guide](https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=typescript-guide&show_owner=true)](https://github.com/rain120/typescript-guide)
 [![awesome-javascript-code-implementation](https://github-readme-stats.vercel.app/api/pin/?username=Rain120&repo=awesome-javascript-code-implementation&show_owner=true)](https://github.com/rain120/awesome-javascript-code-implementation)
