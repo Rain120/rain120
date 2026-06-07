@@ -74,7 +74,9 @@
 |------|-----------|
 | 🧪 [**Omnibox**](https://chaos-design.github.io/omnibox/) | 万能工具箱：代码美化 / 代码对比 / JSON 处理 …想到啥放啥 |
 | 🔍 [**Dom Inspector**](https://chaos-design.github.io/dom/) | 可视化选择点位、DOM 方法演示 |
-| 🛠️ [**Chaos CLI**](https://github.com/chaos-design/chaos) | 一行命令快速创建模版 / 项目脚手架 |
+| 🛠️ [**Chaos Cli**](https://github.com/chaos-design/chaos) | 一行命令快速创建模版 / 项目脚手架 |
+|🇨🇳 [中国古代全览 vercel地址](https://china.chaosmic.cn/)、[中国古代全览 netlify地址](https://yanhuang.netlify.app/)|中国古代全览|
+|🖥️ [infinity](https://github.com/chaos-design/infinity)|自定义Chrome Tab页的扩展|
 
 ## 📚 English Study 角落
 
