@@ -52,7 +52,7 @@
 
 - 🤖 **正在 All in AI**：把日常前端开发流程接入 LLM，探索 **Agent / RAG / MCP / Prompt Engineering** 的最佳实践
 - 🧠 **正在啃** 的方向：
-  - 🪄 **AI Coding** —— Cursor / Claude Code / Codex 等工具的工作流打磨
+  - 🪄 **AI Coding** —— 与工具的工作流打磨
   - 🧩 **AI Agent 编排** —— 多 Agent 协作、工具调用、上下文工程（Context Engineering）
   - 🎨 **AIGC × 前端** —— 让 AI 帮我生成 UI、写组件、做可视化
 - 💬 **欢迎来唠 AI / 前端 / 摄影**：[Open an Issue](https://github.com/Rain120/rain120/issues)
