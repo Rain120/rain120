@@ -72,8 +72,8 @@
 
 | 工具 | 一句话介绍 |
 |------|-----------|
-| 🛠️ [**skills**](https://github.com/chaos-design/skills) | 链接生成双语文档、内容生成Slides |
-| 🧠 [**Slack**](https://slack.chaosmic.cn/) | 轻松学习AI，双语学习AI |
+| 🛠️ [**skills**]() | 链接生成双语文档、内容生成Slides |
+| 🧠 [**Slack**]() | 轻松学习AI，双语学习AI |
 | 🧪 [**Omnibox**](https://chaos-design.github.io/omnibox/) | 万能工具箱：代码美化 / 代码对比 / JSON 处理 …想到啥放啥 |
 | 🔍 [**Dom Inspector**](https://chaos-design.github.io/dom/) | 可视化选择点位、DOM 方法演示 |
 | 🛠️ [**Chaos Cli**](https://github.com/chaos-design/chaos) | 一行命令快速创建模版 / 项目脚手架 |
