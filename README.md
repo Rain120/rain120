@@ -74,15 +74,15 @@
 |------|-----------|
 | 🛠️ [**skills**]() | 链接生成双语文档、内容生成Slides |
 | 🧠 [**Slack**]() | 轻松学习AI，双语学习AI |
-| 🧪 [**Omnibox**](https://chaos-design.github.io/omnibox/) | 万能工具箱：代码美化 / 代码对比 / JSON 处理 …想到啥放啥 |
-| 🔍 [**Dom Inspector**](https://chaos-design.github.io/dom/) | 可视化选择点位、DOM 方法演示 |
-| 🛠️ [**Chaos Cli**](https://github.com/chaos-design/chaos) | 一行命令快速创建模版 / 项目脚手架 |
-| 🇨🇳 [中国古代全览 vercel地址](https://china.chaosmic.cn/)、[中国古代全览 netlify地址](https://yanhuang.netlify.app/)|中国古代全览|
-| 🖥️ [infinity](https://github.com/chaos-design/infinity)|自定义Chrome Tab页的扩展|
+| 🧪 [**Omnibox**]() | 万能工具箱：代码美化 / 代码对比 / JSON 处理 …想到啥放啥 |
+| 🔍 [**Dom Inspector**]() | 可视化选择点位、DOM 方法演示 |
+| 🛠️ [**Chaos Cli**]() | 一行命令快速创建模版 / 项目脚手架 |
+| 🇨🇳 [中国古代全览]()|中国古代全览|
+| 🖥️ [infinity]()|自定义Chrome Tab页的扩展|
 
 ## 📚 English Study 角落
 
 > 工作之余在做的一点点 English 工具，希望对你也有用 🌱
 
-- 🗣️ [**每日高频短语**](https://daily-phrases.chaosmic.cn/) — 通勤路上刷一刷
-- 📖 [**核心词汇形态学词典**](https://prs.chaosmic.cn/) — 从词根词缀理解单词
+- 🗣️ [**每日高频短语**]() — 通勤路上刷一刷
+- 📖 [**核心词汇形态学词典**]() — 从词根词缀理解单词
