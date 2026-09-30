@@ -74,8 +74,8 @@
 |------|-----------|
 | 🛠️ [**skills**]() | 链接生成双语文档、内容生成Slides |
 | 🧠 [**Slack**]() | 轻松学习AI，双语学习AI |
-| 🧪 [**Omnibox**]() | 万能工具箱：代码美化 / 代码对比 / JSON 处理 …想到啥放啥 |
-| 🔍 [**Dom Inspector**]() | 可视化选择点位、DOM 方法演示 |
+| 🧪 [**Omnibox**](https://chaos-design.github.io/omnibox/) | 万能工具箱：代码美化 / 代码对比 / JSON 处理 …想到啥放啥 |
+| 🔍 [**Dom Inspector**](https://chaos-design.github.io/dom/) | 可视化选择点位、DOM 方法演示 |
 | 🛠️ [**Chaos Cli**]() | 一行命令快速创建模版 / 项目脚手架 |
 | 🇨🇳 [中国古代全览]()|中国古代全览|
 | 🖥️ [infinity]()|自定义Chrome Tab页的扩展|
