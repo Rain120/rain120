@@ -72,17 +72,20 @@
 
 | 工具 | 一句话介绍 |
 |------|-----------|
-| 🛠️ [**skills**]() | 链接生成双语文档、内容生成Slides |
-| 🧠 [**Slack**]() | 轻松学习AI，双语学习AI |
+| 🛠️ [**Skills**](https://github.com/chaos-design/skills) | 链接生成双语文档、内容生成Slides |
+| 🧠 [**Slack**](https://slack.chaosmic.cn/) | 轻松学习AI，双语学习AI |
 | 🧪 [**Omnibox**](https://chaos-design.github.io/omnibox/) | 万能工具箱：代码美化 / 代码对比 / JSON 处理 …想到啥放啥 |
 | 🔍 [**Dom Inspector**](https://chaos-design.github.io/dom/) | 可视化选择点位、DOM 方法演示 |
-| 🛠️ [**Chaos Cli**]() | 一行命令快速创建模版 / 项目脚手架 |
-| 🇨🇳 [中国古代全览]()|中国古代全览|
-| 🖥️ [infinity]()|自定义Chrome Tab页的扩展|
+| 🛠️ [**Chaos Cli**](https://github.com/chaos-design/chaos) | 一行命令快速创建模版 / 项目脚手架 |
+| 🇨🇳 [**中国古代全览**](https://china.chaosmic.cn/)|中国古代全览|
+| 🖥️ [**infinity**](https://github.com/chaos-design/infinity)|自定义Chrome Tab页的扩展|
+| 📊 [**Ahead**](https://presale-subscribe.chaosmic.cn/)|Ahead 是一个完整的功能预告与预约订阅系统。团队可以创建项目、编辑草稿、发布独立线上版本、撤回页面，并通过可分享链接收集订阅邮箱与问卷回答。|
+| 🔨 [**Hammer**](https://hammer.chaosmic.cn/)| 多仓库工具包 |
+| 📃 [**Nantianmen**](https://nantianmen.chaosmic.cn/)| Résumé Lab 是一个面向简历创作、A4 排版和在线展示的可视化平台。它把简历内容保存为结构化 JSON，让用户在表单、JSON、A4 画布、Web 页面和公开分享之间复用同一份职业档案。 |
 
 ## 📚 English Study 角落
 
 > 工作之余在做的一点点 English 工具，希望对你也有用 🌱
 
-- 🗣️ [**每日高频短语**]() — 通勤路上刷一刷
-- 📖 [**核心词汇形态学词典**]() — 从词根词缀理解单词
+- 🗣️ [**每日高频短语**](https://daily-phrases.chaosmic.cn/) — 通勤路上刷一刷
+- 📖 [**核心词汇形态学词典**](https://prs.chaosmic.cn/) — 从词根词缀理解单词
