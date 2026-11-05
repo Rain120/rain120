@@ -43,10 +43,9 @@
 
 ### 🧙‍♂️ `Whoami`
 
-> 一名从 2018 年 **北漂** 至今的 *菜鸡前端*。技术栈是 `React` + `Mobx`，正在积极学习 `TypeScript`。
-> 生活组成就是出门练习摄影、试图捡起篮球，以及 **折腾并学习那些不会的前端知识**。
+> 一名从 2018 年 **北漂** 至今的 *菜鸡前端*。
+> 生活组成就是出门练习摄影、试图捡起篮球，以及 **折腾**。
 > 学习心得和笔记都会记录在 [study-notes](https://rain120.github.io/study-notes/) 上。
-> 个人小项目流产率比较高，但还是喜欢折腾这些 —— 有同好的朋友，欢迎一起来玩 🤝
 
 ### 🚀 现在 / 在做 / 想做
 
@@ -72,14 +71,14 @@
 
 | 工具 | 一句话介绍 |
 |------|-----------|
-| 🛠️ [**Skills**](https://github.com/chaos-design/skills) [🔗](https://skills-site-ochre.vercel.app/) | 链接生成双语文档、内容生成Slides |
+| 🛠️ [**Skills**](https://github.com/chaos-design/skills) <br /> [🔗 Link](https://skills-site-ochre.vercel.app/) | 链接生成双语文档、内容生成Slides |
 | 🧠 [**Slack**](https://slack.chaosmic.cn/) | 轻松学习AI，双语学习AI |
 | 🧪 [**Omnibox**](https://chaos-design.github.io/omnibox/) | 万能工具箱：代码美化 / 代码对比 / JSON 处理 …想到啥放啥 |
 | 🔍 [**Dom Inspector**](https://chaos-design.github.io/dom/) | 可视化选择点位、DOM 方法演示 |
-| 🛠️ [**Chaos Cli**](https://github.com/chaos-design/chaos) | 一行命令快速创建模版 / 项目脚手架 |
+| 🛠️ [**Chaos Cli**](https://github.com/chaos-design/chaos) <br />  [🔗 Link](https://chaos-chi-livid.vercel.app/) | 一行命令快速创建模版 / 项目脚手架 |
 | 🇨🇳 [**中国古代全览**](https://china.chaosmic.cn/)|中国古代全览|
 | 🖥️ [**infinity**](https://github.com/chaos-design/infinity)|自定义Chrome Tab页的扩展|
-| 📊 [**Ahead**](https://presale-subscribe.chaosmic.cn/)|Ahead 是一个完整的功能预告与预约订阅系统。<br/> 团队可以创建项目、编辑草稿、发布独立线上版本、撤回页面，<br/> 并通过可分享链接收集订阅邮箱与问卷回答。|
+| 📊 [**Ahead**](https://presale-subscribe.chaosmic.cn/)|Ahead 是一个完整的功能预告与预约订阅系统。团队可以创建项目、编辑草稿、发布独立线上版本、撤回页面，<br/> 并通过可分享链接收集订阅邮箱与问卷回答。|
 | 🔨 [**Hammer**](https://hammer.chaosmic.cn/)| 多仓库工具包 |
 | 📃 [**Nantianmen**](https://nantianmen.chaosmic.cn/)| Résumé Lab 是一个面向简历创作、A4 排版和在线展示的可视化平台。<br/> 它把简历内容保存为结构化 JSON，让用户在表单、JSON、A4 画布、Web 页面和公开分享之间复用同一份职业档案。 |
 
