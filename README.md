@@ -78,9 +78,9 @@
 | 🛠️ [**Chaos Cli**](https://github.com/chaos-design/chaos) <br />  [🔗 Link](https://chaos-chi-livid.vercel.app/) | 一行命令快速创建模版 / 项目脚手架 |
 | 🇨🇳 [**中国古代全览**](https://china.chaosmic.cn/)|中国古代全览|
 | 🖥️ [**infinity**](https://github.com/chaos-design/infinity)|自定义Chrome Tab页的扩展|
-| 📊 [**Ahead**](https://presale-subscribe.chaosmic.cn/)|Ahead 是一个完整的功能预告与预约订阅系统。团队可以创建项目、编辑草稿、发布独立线上版本、撤回页面，<br/> 并通过可分享链接收集订阅邮箱与问卷回答。|
+| 📊 [**Ahead**](https://presale-subscribe.chaosmic.cn/)|Ahead 是一个完整的功能预告与预约订阅系统。团队可以创建项目、编辑草稿、发布独立线上版本、撤回页面，并通过可分享链接收集订阅邮箱与问卷回答。|
 | 🔨 [**Hammer**](https://hammer.chaosmic.cn/)| 多仓库工具包 |
-| 📃 [**Nantianmen**](https://nantianmen.chaosmic.cn/)| Résumé Lab 是一个面向简历创作、A4 排版和在线展示的可视化平台。<br/> 它把简历内容保存为结构化 JSON，让用户在表单、JSON、A4 画布、Web 页面和公开分享之间复用同一份职业档案。 |
+| 📃 [**Nantianmen**](https://nantianmen.chaosmic.cn/)| Résumé Lab 是一个面向简历创作、A4 排版和在线展示的可视化平台。它把简历内容保存为结构化 JSON，让用户在表单、JSON、A4 画布、Web 页面和公开分享之间复用同一份职业档案。 |
 
 ## 📚 English Study 角落
 
