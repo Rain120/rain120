@@ -86,8 +86,6 @@
 
 > 工作之余在做的一点点 English 工具，希望对你也有用 🌱
 
-- 🧠 [**记忆驱动的优化智能学习**](https://moss.chaosmic.cn/) - MOSS(Memory-driven Optimized Smart Study · 记忆驱动的优化智能学习
-
-): 一个记忆驱动的英语学习工作区。它把场景对话、表达反馈、间隔复习、影子跟读和 跨场景迁移组织为同一条学习链路，而不是静态课程目录或通用聊天界面。
+- 🧠 [**记忆驱动的优化智能学习**](https://moss.chaosmic.cn/) — MOSS(Memory-driven Optimized Smart Study · 记忆驱动的优化智能学习): 一个记忆驱动的英语学习工作区。它把场景对话、表达反馈、间隔复习、影子跟读和 跨场景迁移组织为同一条学习链路，而不是静态课程目录或通用聊天界面。
 - 🗣️ [**每日高频短语**](https://daily-phrases.chaosmic.cn/) — 通勤路上刷一刷
 - 📖 [**核心词汇形态学词典**](https://prs.chaosmic.cn/) — 从词根词缀理解单词
