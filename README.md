@@ -86,5 +86,6 @@
 
 > 工作之余在做的一点点 English 工具，希望对你也有用 🌱
 
+- 🧠 [**记忆驱动的优化智能学习**](https://moss.chaosmic.cn/) - Memory-driven Optimized Smart Study
 - 🗣️ [**每日高频短语**](https://daily-phrases.chaosmic.cn/) — 通勤路上刷一刷
 - 📖 [**核心词汇形态学词典**](https://prs.chaosmic.cn/) — 从词根词缀理解单词
