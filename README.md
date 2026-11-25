@@ -71,7 +71,7 @@
 
 | 工具 | 一句话介绍 |
 |------|-----------|
-| 🤖 [**ASTRO**](https://github.com/chaos-design/astro) <br /> [🔗 Link](https://chaos-design.github.io/astro) | AGENT STATE TRACE & RUNTIME OBSERVATIONS |
+| 🤖 [**ASTRO**](https://github.com/chaos-design/astro) <br /> [🔗 Link](https://chaos-design.github.io/astro) | AGENT STATE TRACE & RUNTIME OBSERVATIONS <br /> 智能体状态追踪与运行时观测，一个编码智能体可观测系统，与 Astro Web 框架无关。 |
 | 🛠️ [**Skills**](https://github.com/chaos-design/skills) <br /> [🔗 Link](https://skills-site-ochre.vercel.app/) | 链接生成双语文档、内容生成Slides |
 | 🧠 [**Slack**](https://slack.chaosmic.cn/) | 轻松学习AI，双语学习AI |
 | 🧪 [**Omnibox**](https://chaos-design.github.io/omnibox/) | 万能工具箱：代码美化 / 代码对比 / JSON 处理 …想到啥放啥 |
